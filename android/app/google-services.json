@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24389307690",
+    "firebase_url": "https://cryptocatch-f9ef5.firebaseio.com",
+    "project_id": "cryptocatch-f9ef5",
+    "storage_bucket": "cryptocatch-f9ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24389307690:android:81c23a7e09324507e6e253",
+        "android_client_info": {
+          "package_name": "ca.akinwumi.cryptocatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24389307690-tqf0lde5aml495o3830l27jqhev8ulvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVmBxjCXC0HACd4wnpMSQcaHehDVlpBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24389307690-tqf0lde5aml495o3830l27jqhev8ulvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
