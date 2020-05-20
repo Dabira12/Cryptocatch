@@ -1,6 +1,8 @@
-Crypyocatch was developed to be able to view information on numerous cryptocurrencies at a glance.
+Crypyocatch was developed to be able to view information on numerous cryptocurrencies at a glance.It allows you to view your favorite cryptocurrency as well as the latest news articles on cryptocurrency.
+Crypocatch was built using google's flutter and dart and can be deployed on both ios and android devices.
+Crypocatch's database is handled with firestore and authentication services are handled with firebase.
 
-Cryptocatch allows you to view your favorite cryptocurrency as well as the latest news articles on cryptocurrency.
+
 
 # App Screenshots
 ![Screen Shot 2020-05-20 at 7 36 45 PM](https://user-images.githubusercontent.com/43392188/82508320-ae854280-9ad2-11ea-85da-fb534102cbd2.png)
